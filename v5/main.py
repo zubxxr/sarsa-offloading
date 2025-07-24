@@ -132,7 +132,7 @@ def main():
         writer.writerow(row)
 
     # --- Plotting ---
-    # plot_results(strategy_names, energy_all, latency_all, sarsa_updates, agent.get_action_counts())
+    plot_results(strategy_names, energy_all, latency_all, sarsa_updates, agent.get_action_counts())
 
 
 if __name__ == "__main__":
