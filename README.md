@@ -13,6 +13,6 @@ pip install -r requirements.txt
 ```
 ## Run code
 ```bash
-cd ~/sarsa-offloading/v4
+cd ~/sarsa-offloading/src
 python3 main.py
 ```
